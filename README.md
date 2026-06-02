@@ -92,7 +92,19 @@ File → Open → выбери папку проекта
 4. Альтернативное выключение
 Кнопка "ВЫКЛЮЧИТЬ" на экране — ручное отключение
 
-Главный экран	Экран будильника
-<img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/1f04a6cb-ac23-4a58-9b0b-e9d7f29d97a9" />
-<img width="289" height="551" alt="image" src="https://github.com/user-attachments/assets/5010bd10-a92c-4b0f-8e1e-5c81053253c8" />
+## Скриншоты
 
+| Главный экран | Экран будильника |
+|---------------|------------------|
+| ![Главный экран](screenshots/main_screen.png) | ![Экран будильника](screenshots/alarm_screen.png) |
+
+Авторы
+Валишин М.М. — разработка
+
+Хабиров Э.И. — отчёт
+
+Группа
+ИБ-206Б
+
+Преподаватель
+Чернышев Е.С.
