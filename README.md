@@ -41,7 +41,7 @@
 <img width="479" height="558" alt="image" src="https://github.com/user-attachments/assets/4102d45f-a103-4892-8266-dc6f8f76a8a3" />
 
 
-text
+
 
 ---
 
@@ -91,3 +91,8 @@ File → Open → выбери папку проекта
 
 4. Альтернативное выключение
 Кнопка "ВЫКЛЮЧИТЬ" на экране — ручное отключение
+
+Главный экран	Экран будильника
+<img width="299" height="607" alt="image" src="https://github.com/user-attachments/assets/1f04a6cb-ac23-4a58-9b0b-e9d7f29d97a9" />
+<img width="289" height="551" alt="image" src="https://github.com/user-attachments/assets/5010bd10-a92c-4b0f-8e1e-5c81053253c8" />
+
