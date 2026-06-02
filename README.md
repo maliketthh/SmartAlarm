@@ -37,16 +37,9 @@
 ---
 
 ## Архитектура приложения
-MainActivity (установка времени)
-↓
-AlarmManager (регистрация в системе)
-↓ (время пришло)
-AlarmReceiver (пробуждение телефона)
-↓
-├→ AlarmSoundService (звук + вибрация в фоне)
-└→ AlarmShakeActivity (экран с тряской)
-↓
-Акселерометр → 10 трясок → выключение
+
+<img width="479" height="558" alt="image" src="https://github.com/user-attachments/assets/4102d45f-a103-4892-8266-dc6f8f76a8a3" />
+
 
 text
 
